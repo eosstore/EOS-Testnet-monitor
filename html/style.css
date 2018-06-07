@@ -23,7 +23,8 @@ body, html {
     .hidesm { display: none; }
 }
 
-.mainInfo {	font-size: 23px;
+.mainInfo {
+	font-size: 23px;
 	/*background-color: rgb(255, 255, 255, 0.6);*/
 	padding: 10px 30px;
 	background-color: #FFF;
@@ -57,7 +58,8 @@ body, html {
 }
 
 
-.tblheader {	/*background-color: rgb(158, 214, 103, 0.6);*/
+.tblheader {
+	/*background-color: rgb(158, 214, 103, 0.6);*/
 	background-color: #9ED667;
 
 	/* IE 8 */
@@ -126,7 +128,8 @@ body, html {
 
 }
 
-.footer{	/*background-color: rgb(255, 255, 255, 0.4);*/
+.footer{
+	/*background-color: rgb(255, 255, 255, 0.4);*/
 	background-color: #FFF;
 	/* IE 8 */
   	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
@@ -175,7 +178,8 @@ body, html {
    		vertical-align: middle;
 }
 
-.dot {	color: #000;
+.dot {
+	color: #000;
 
 	/* IE 8 */
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
@@ -244,40 +248,48 @@ body, html {
     left: 105%;
 }
 
-.c1{	min-width:90px;
+.c1{
+	min-width:90px;
 }
 
-.resp_time{	color: #999;
+.resp_time{
+	color: #999;
     vertical-align: super;
     font-size: smaller;
 }
 
-.black {
+.black {
+
 	color: #222 !important;
 }
 
-#lastBlock{	font-size: 70px;
+#lastBlock{
+	font-size: 70px;
 	display: block;
 	text-align: center;
 	line-height: 70px;
 }
 
-#lastProducer{	font-size: 27px;
+#lastProducer{
+	font-size: 27px;
 
 	color: #a616ca;
 }
 
 
-#irrBlock{	font-size: 18px;
+#irrBlock{
+	font-size: 18px;
 	display: block;
 	text-align: center;
 }
 
-#blocData{	font-size: 28px;
+#blocData{
+	font-size: 28px;
 	display: block;
 	text-align: center;
 	padding: 10px 0px 15px 0px;
 }
 
-#txTable{	font-size: 12px;
+#txTable{
+	font-size: 12px;
 }

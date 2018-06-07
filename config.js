@@ -10,7 +10,7 @@
 
 module.exports = {
 	eos_monitor_port: "4000",  //This Monitor Port to listen Websockets and http
-	nodeAddr: "127.0.0.1:8888", // Your Local node connected to network
+	nodeAddr: "127.0.0.1:8889", // Your Local node connected to network
 
 	mongoURL: "mongodb://localhost:27017/",  //mongoDB url Path
 	mongoDB: "eosbemonitor",  //mongoDB database name
